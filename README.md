@@ -1,5 +1,5 @@
 # Climate Modeling Analysis of India using CMIP6
-[](monsoon.webp)
+![](monsoon.webp)
 
 ## About
 This study leverages data from the Coupled Model Intercomparison Project Phase 6 (CMIP6) to analyze projected changes in precipitation and wind patterns across India. Given the country’s strong reliance on monsoon-driven rainfall, this analysis focuses on comparing historical climate conditions with a future high-emissions scenario (SSP5-8.5), which assumes continued fossil fuel development and minimal climate mitigation efforts. The goal is to assess how intensification or disruption of monsoonal systems could impact regional climate dynamics under extreme climate.
