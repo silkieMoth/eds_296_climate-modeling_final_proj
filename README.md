@@ -6,7 +6,11 @@ This study leverages data from the Coupled Model Intercomparison Project Phase 6
 
 ## Repository Structure
 ```bash
-
+eds_296_climate-modeling_final_proj
+├── README.md
+├── indian_monsoons.ipynb
+├── India_ADM0_simplified.simplified.geojson
+└── monsoon.webmp
 ```
 
 ## Data
